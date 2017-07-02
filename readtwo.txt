@@ -1,2 +1,3 @@
-Git is a distributed version control system shift.
+Git is a slice version control system shift.
 Git is free software.
+person change event this will change will to foever append GL.
